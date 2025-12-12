@@ -1,7 +1,7 @@
 # 🌿 About Me:
-💡 Software Developer with hands-on experience in full-stack and AI-driven application development, backed by a strong foundation in Mathematics. Skilled in Java, JavaScript, Python, and the MERN stack, with 100+ DSA problems solved.
+💡 Software Developer with hands-on experience in Full-Stack and AI-driven application development, backed by a strong foundation in Mathematics. Skilled in Java, JavaScript, Python, and the MERN stack, with 100+ DSA problems solved.
 
-Experienced in building scalable AI microservices, FastAPI applications, LangChain/LangGraph workflows, RAG pipelines, and Vector database systems, blending strong problem-solving with practical implementation of modern AI technologies.
+I specialize in building Agentic Workflows, RAG Pipelines, and Scalable Microservices. I am passionate about moving AI beyond chatbots into Agentic Workflows that reason, plan, and execute.
 <br><br> 
 
 # 💻 Tech Stack:
